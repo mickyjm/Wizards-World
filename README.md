@@ -2,8 +2,12 @@
 Wizards World, Common LISP Assignment ICS 313
 
 Run with clisp:
-```clisp
+```
+clisp
 load("mjm44a.lisp")
-(game-repl)```
+(game-repl)
+```
 
-Further instructions given in-game
+Further instructions given in-game.
+
+[http://www.lisperati.com/](http://www.lisperati.com/)
